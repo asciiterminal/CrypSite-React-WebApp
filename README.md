@@ -1,0 +1,2 @@
+# CrypSite-React-WebApp
+This is creation of a React Application that was taken from Yoda Admin Temple By Hypeople. There have been multiple changes made to ensure a new and latest backend functionalities in the Front-End part regarding the application such as the use of React Hooks and useStates added as well as Axios; Furthermore we have created or should i say modified this existing application to function as a ReactDOM stand-alone Admin Only page.
